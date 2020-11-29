@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Basketball Coolcat</string>
+    <string name="title_activity_main">Basketball Coolcat</string>
+    <string name="package_name">io.ionic.car</string>
+    <string name="custom_url_scheme">io.ionic.car</string>
+</resources>

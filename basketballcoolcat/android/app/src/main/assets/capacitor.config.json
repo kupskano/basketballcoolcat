@@ -1,0 +1,13 @@
+{
+  "appId": "io.ionic.car",
+  "appName": "car",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 3000
+    }
+  },
+  "cordova": {}
+}
